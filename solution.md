@@ -61,3 +61,18 @@ egrep -R '((Joe Germuska)|(Brian Boyer)|(Mike Bostock)|(Jeremy Bowers)|(John Kee
 # Not BB, wrong car manufacturer
 # JB, it is JB
 ```
+
+
+Commands searched in iTerm:
+- git clone https://github.com/ATL-WDI-Exercises/command-line-mystery.git
+- subl command-line-mystery
+- touch solution.md
+- cat instructions
+- cd mystery
+- grep "CLUE" ./crimescene
+- grep "Annabel" ./people
+- head -n 179 ../streets/Buckingham_Place | tail -n 1
+- open interview-699607
+- head vehicles
+- grep -A 5 "L337" vehicles
+- egrep -R "((Joe Germuska)|(Jeremy Bowers))" memberships
