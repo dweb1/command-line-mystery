@@ -76,3 +76,4 @@ Commands searched in iTerm:
 - head vehicles
 - grep -A 5 "L337" vehicles
 - egrep -R "((Joe Germuska)|(Jeremy Bowers))" memberships
+- criminal is Jeremy Bowers
